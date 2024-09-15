@@ -1,0 +1,16 @@
+.port{
+  width: 50%;
+
+}
+.form{
+  opacity: 0;
+}
+.sunny{
+  opacity: 1;
+}
+.ter{
+  color: #000000;
+}
+.active{
+  color: #e80c0c;
+}
