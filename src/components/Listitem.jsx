@@ -133,7 +133,7 @@ export default function Listitem() {
                 <input onChange={handleNumChange} value={age} type="number" />
                 <input onChange={handleSalaryChange} value={salary} type="number" />
                 <button onClick={handleClick} >confirm</button>
-                <a href="">cancel</a>
+                <button onClick={sad}>cancel</button>
             </div>
             <div>
                 <h1>{every}</h1>
